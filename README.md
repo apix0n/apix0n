@@ -39,7 +39,7 @@ on top of that, i also like helping random projects or people from time to time,
 | --- | --- | --- |
 | [daiku](https://apixdaiku.vercel.app) | a media dashboard for anime & movies i watch, mangas i read and my book library. | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=fff) ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff) |
 | [apix tools](https://apixtools.vercel.app) | a set of web tools for things i couldn’t do easily at some point. | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff) |
-| [NamazCal](https://namaz-cal.vercel.app) | a tool to generate or subscribe to turkish prayer time calendars (.ics). | ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff) |
+| [NamazCal](https://namaz-cal.vercel.app) | a tool to generate or subscribe to turkish prayer time calendars (.ics). | ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff) |
 | [rinko](https://rinko.apix0n.workers.dev/rinko) | a url shortener built on cloudflare workers & kv. | ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)  ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=fff) |
 
 ### some other stuff

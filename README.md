@@ -48,7 +48,7 @@ on top of that, i also like helping random projects or people from time to time,
 | --- | --- | --- |
 | [osu! & Sonolus AltStore Sources](https://apikusu.github.io/altstore) | AltStore and derivatives sources for the rhythm games osu! and Sonolus. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=fff) |
 | [iosrpc](https://github.com/apix0n/iosrpc) | a Flask server combined with a Shortcuts Automation to sync your currently open iOS app to Discord. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) |
-| ["Blue Solo" Aidoku Source](https://github.com/Skittyblock/aidoku-community-sources/tree/main/src/rust/fr.bluesolo) | an Aidoku source to read manga from the French scanlation team Blue Solo's website. \| `fr.bluesolo` | ![Rust](https://img.shields.io/badge/Rust-D24615?logo=rust&logoColor=fff) |
+| ["Blue Solo" Aidoku Source](https://github.com/Skittyblock/aidoku-community-sources/tree/main/src/rust/fr.bluesolo) | an Aidoku source to read manga from the French scanlation team Blue Solo's website. \| `fr.bluesolo` | ![Rust](https://img.shields.io/badge/Rust-D24615?logo=rust&logoColor=fff) ![Aidoku](./Aidoku.svg) |
 
 ---
 
